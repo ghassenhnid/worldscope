@@ -1,2 +1,10 @@
-# worldscope
-Interactive fantasy-world GIS atlas built with React, FastAPI and PostGIS, with automated testing and deployment.
+# WorldScope
+
+An interactive GIS atlas for exploring and analyzing fantasy worlds
+created with Azgaar Fantasy Map Generator.
+
+🚧 Work in progress.
+
+## Planned stack
+
+React · TypeScript · OpenLayers · FastAPI · PostgreSQL/PostGIS · Docker · GitHub Actions
